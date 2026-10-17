@@ -1,0 +1,6 @@
+{
+  "name": "ApexPhone | Premium Smartfonlar Ko'rgazmasi va Do'koni",
+  "description": "Zamonaviy flagman smartfonlar ko'rgazmasi, texnik parametrlar, taqqoslash, ranglar tanlovi, kamera sinovi va GitHub integratsiyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
